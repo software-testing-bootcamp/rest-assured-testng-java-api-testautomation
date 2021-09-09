@@ -23,3 +23,6 @@ https://petstore.swagger.io/#/
 3. Run Test and view results on console log.
 
 
+![image](https://user-images.githubusercontent.com/89974862/132766279-2521483b-0f91-4046-b5a1-ae3d3a217860.png)
+
+
