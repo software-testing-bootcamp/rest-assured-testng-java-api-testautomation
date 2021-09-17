@@ -5,11 +5,13 @@
 https://youtu.be/ngbRU3abqLA
 
 
+
 **Requirements:**
 
 Java JDK Installation -> https://www.oracle.com/tr/java/technologies/javase-downloads.html
 
 Jetbrains IntelliJ IDEA Installation -> https://www.jetbrains.com/idea/
+
 
 
 **Documents**
@@ -20,6 +22,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 https://reqres.in/
 
 https://petstore.swagger.io/#/
+
 
 **How to use ?**
 1. Enable Auto import mode for pom.xml or open pom.xml file on IntelliJ and reimport by right clicking on the file.
